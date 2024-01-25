@@ -34,7 +34,7 @@
 Clone the project  
 
 ~~~bash  
-  git clone https://link-to-project
+  git clone https://github.com/ka9mal6t/controller_for_server
 ~~~
 
 Go to the project directory  
